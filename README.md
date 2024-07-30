@@ -1,2 +1,2 @@
-# Generative AI
-Generative AI applications
+# Deep Learning
+Multiple examples of Deep Learning aplications
