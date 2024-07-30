@@ -1,2 +1,2 @@
-# generative_AI
+# generative AI
 generative AI applications
