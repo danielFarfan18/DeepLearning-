@@ -1,2 +1,2 @@
-# generative AI
-generative AI applications
+# Generative AI
+Generative AI applications
